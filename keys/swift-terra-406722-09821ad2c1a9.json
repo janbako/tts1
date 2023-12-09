@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "swift-terra-406722",
+  "private_key_id": "09821ad2c1a972afa6fe0566e19301d02aefd996",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsJN5w8uQTfrP1\nsHKB4fzvvd4Yq/g6VRCJhAllcVcWYUKOWk+4tZbzUaMPxpAnRY6vqsgeyE4eSVf8\nCOLWtaxmC3acSOFhNjGiSGUR3Wi9CG+T46GZPMf5RYYotREB2FInReUw80UGtNNO\n7k/VWxACvr1xK2+gAQO0tjUQl4NMGSsYOhj7nDR9AgVbPmHlGnZgPkVpiUs6szcH\n+m3xLZ20yvB4nWlX8SsUA8iaecYqNQ3V7zt8fneedlZoWrl0SRlMOQLXhiOZi8i0\nUbc0KLUc5JUYLR+GEfQEvakrpYyMbug+eMJgeUU17q+iAF1KPB5pGRnR6GvTXPoh\nqc20WijjAgMBAAECggEAJtvjwsdxqNzvLsT39E3ZVR0dJ6CaVkChjQlbPaUKLaki\n5xOH74A+ZQrGrmb6X4MaJJl+t0QsLjYMQH6ZBjLYieiIi9r/1XvwVFvXROMgI5vl\n5BJ8hiTsV17UXBgTkMEOOoNSq2we5tam5KhzKQx3XsdD6GoPtqTD+2UuMWKiZujg\nskWYJqupUgvm0fblOSVjVdjGfDF/BXcotwciHgkiwY4F37IPfAksa9It9g3mB+sf\na452B+JblhRQXj6mTdusCIGJNX6wyp11o02TWkiBkq4x9EJKTCGuxbUbaVGmMv3+\nwcyAGoMmwkQ81KvpB9d1UapDiMISz75jVLlJW6HKUQKBgQDaQ8jchZPfSVS2LeMV\ntElzUs9MbsSAXzRF2eP5L3lfqVOTF/BOKKSm0KiR3tAvpg66rrS0wtKzGNXTbjEz\nodBNLv3AwcdZ01CItuZ35cydv7wEmUNBdf9t5GuS6gZGKgHtYB7aASkaFLOVoyCo\nZzX38PNgQ0kQJLxxD63oWyk2HwKBgQDJ59Fw2pvEBhOHNfqmWG7IyOgP+j/6ZJyz\n0NHyH5w11KH6VScUx87GjlfBt52cpSV4logx9ni6pqU17cEz7eq7FWrZlWsQoVWV\nLuNlp6cFfD2zBv2M1DwBCDNVyletk4gvyekM+ID6sBP5jTTQeWPZsB3h7X3Ub06i\nAPr+oaRMvQKBgQCNIfGaroEci6VMG8XPvgEUogJLMQC85VK+rBLeiRUZhzr0TTFk\nyKEXAKtPj1zcwqqZiehtTeDCUBfLnGASO9qeXflVD7gg3CQiEupZsu0pP9aKvrOf\ne3ZMD7yDhfHCot0WKeYpH0D9jU9GPfIbEonyJgqpPzjaSHbVQMc6DOBMDwKBgQC7\nPnujt3kBf8kYedzr69NB7eAZATHYGvqgYCZz7xDFc16Mc+/8e5it11BXXNuUbCul\n+6RvAW7RWr6Ylte4OwqXWbNv+fwCvjxKT+OfYK2qjqABqZf2xNSo+FvzUeWiGdIQ\nz6WL2+Jxml3L70JtnEYXmhb8cW1iV5+K6nHbNzjR2QKBgASVnFRWFzbihaT5jKDV\nz4CXqtzdy1x9JX49kgCDCm2sVe1PxU8/y4AMfeoorleM5lRVZje3V1xGS+a5XKF6\nk/5AN1+YQ3Rjnx/EQft2h+squFjK4tY/+xWKqnkSYHQIn0wXOpEoXnAyZtAVmRoc\n85pVF3refoNATdZyTC3JiqT5\n-----END PRIVATE KEY-----\n",
+  "client_email": "service111@swift-terra-406722.iam.gserviceaccount.com",
+  "client_id": "110892956790843343457",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service111%40swift-terra-406722.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
