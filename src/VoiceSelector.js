@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import voiceMapping from './voiceMapping';
 
-const VoiceSelector = ({ onSelect, onSpeechRateChange, onPitchChange, onSpeak, loading }) => {
+const VoiceSelector = ({ onSelect, onSpeechRateChange, onPitchChange, loading }) => {
   const [voices, setVoices] = useState([]);
 
   useEffect(() => {
@@ -23,20 +23,10 @@ const VoiceSelector = ({ onSelect, onSpeechRateChange, onPitchChange, onSpeak, l
     onSelect(e.target.value);
   };
 
-  const handleSpeechRateChange = (e) => {
-    const rate = parseFloat(e.target.value);
-    onSpeechRateChange(rate);
-  };
-
-  const handlePitchChange = (e) => {
-    const newPitch = parseFloat(e.target.value);
-    onPitchChange(newPitch);
-  };
-
   return (
     <div>
       {/* Removed the "Voice" label */}
-      <select onChange={handleVoiceSelect}>
+      <select onChange={handleVoiceSelect} disabled={loading}>
         <option value="">Default</option>
         {voices.map((voice) => (
           <option key={voice.name} value={voice.name}>
